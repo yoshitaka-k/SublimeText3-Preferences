@@ -1,0 +1,44 @@
+{
+	"bold_folder_labels": true,
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.DS_Store",
+		"*.jpg",
+		"*.png",
+		"*.gif",
+		"*.ppt"
+	],
+	"folder_exclude_patterns":
+	[
+		"images",
+		"img",
+		"siyosho",
+		"db"
+	],
+	"font_face": "Ricty Discord Regular",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Sass",
+		"SASS Build",
+		"SublimeOnSaveBuild",
+		"Vintage",
+	],
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"update_check": true,
+	"draw_white_space": "all"
+}
